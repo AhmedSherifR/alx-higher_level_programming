@@ -2,7 +2,7 @@
 """defines function to write JSON representatin of an object to file"""
 
 
-import json 
+import json
 
 
 def save_to_json_file(my_obj, filename):
