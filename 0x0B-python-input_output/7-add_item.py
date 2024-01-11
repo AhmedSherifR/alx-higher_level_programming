@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for saving to json"""
+"""script to add all arguments to a Python list and save to a file"""
 import json
 import os.path
 import sys
